@@ -148,7 +148,7 @@ span {
     position: relative;
     width: 32vw;
     border-radius: 50%;
-    box-shadow: 0 0 25px solid rgb(5, 134, 194);
+    box-shadow: 0 0 25px rgb(5, 134, 194);
     cursor: pointer;
     transition: 0.2s linear;
 
@@ -280,4 +280,5 @@ span {
         margin-top: 4rem;
 
     }
+
 }
